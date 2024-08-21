@@ -8,7 +8,9 @@
 
 ## Education
 - Bachelor Degree in Computer Science and Management Information System (Expected 07/2026)
+  
 ` Abu Qir Higher Institute For Computer And Information`
+
 ` Alexandria University`
 
 ## Objective

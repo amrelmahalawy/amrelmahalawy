@@ -1,52 +1,51 @@
 # Amr Ahmed Mohammed El-Mahalawy
 
-## 📫 Contact Information
+## **📫 Contact Information**
 
-#### Email: amrelmahalawy.office@gmail.com
+- Email: amrelmahalawy.office@gmail.com
 
-#### Phone: +201093056853 / +201288796784
+- GitHub: [Amr El-Mahalawy](https://github.com/amrelmahalawy)
 
-#### GitHub: [Amr El-Mahalawy](https://github.com/amrelmahalawy)
+- LinkedIn: [Amr El-Mahalawy](https://www.linkedin.com/in/amrelmahalawy)
 
-#### LinkedIn: [Amr El-Mahalawy](https://www.linkedin.com/in/amrelmahalawy)
+## **🎓 Education**
 
-## 🎓 Education
+- Bachelor's Degree in Computer Science and Management Information Systems *(Expected 07/2026)*  
+  *Abu Qir Higher Institute For Computer And Information* 
 
-#### Bachelor's Degree in Computer Science and Management Information Systems (Expected July 2026)Abu Qir Higher Institutes
+## **🎯 Objective**
 
-## 🎯 Objective
+ 🚀 A motivated and detail-oriented Computer Science student with a strong foundation in programming, database management, and data visualization. Seeking an opportunity to apply my technical and analytical skills in a dynamic environment where I can contribute to projects and enhance my professional growth.
 
-#### 🚀 A motivated and detail-oriented Computer Science student with a strong foundation in programming, database management, and data visualization. Seeking an opportunity to apply my technical and analytical skills in a dynamic environment where I can contribute to projects and enhance my professional growth.
+## **🛠 Skills**
 
-## 🛠 Skills
+### **🔹 Technical Skills**
 
-### 🔹 Technical Skills
+- Programming Languages: Python, Java, C++
 
-#### Programming Languages: Python, Java, C++
+- Data Visualization Tools: Tableau, Power BI, Matplotlib
 
-#### Data Visualization Tools: Tableau, Power BI, Matplotlib
+- Database Management: MySQL, PostgreSQL, MongoDB
 
-#### Database Management: MySQL, PostgreSQL, MongoDB
+- Version Control: Git, GitHub
 
-#### Version Control: Git, GitHub
+- Web Development: HTML, CSS, JavaScript
 
-#### Web Development: HTML, CSS, JavaScript
+### **🔹 Soft Skills**
 
-### 🔹 Soft Skills
+- ✅ Problem-solving
 
-#### ✅ Problem-solving
+- ✅ Critical thinking
 
-#### ✅ Critical thinking
+- ✅ Team collaboration
 
-#### ✅ Team collaboration
+- ✅ Time management
 
-#### ✅ Time management
+- ✅ Communication skills
 
-#### ✅ Communication skills
+### **🌍 Languages**
 
-### 🌍 Languages
+- 🇪🇬 Arabic: Native
 
-#### 🇪🇬 Arabic: Native
-
-#### 🇬🇧 English: Intermediate (B1)
+- 🇬🇧 English: Intermediate (B1)
 

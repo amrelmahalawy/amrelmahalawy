@@ -34,7 +34,7 @@
 
 ### 🔹 Soft Skills
 
-### #✅ Problem-solving
+#### ✅ Problem-solving
 
 #### ✅ Critical thinking
 

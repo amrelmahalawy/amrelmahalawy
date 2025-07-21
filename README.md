@@ -1,13 +1,8 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amrelmahalawy/amrelmahalawy/main/assets/banner.png" alt="Amr El-Mahalawy Banner" />
-</p>
-
 <h1 align="center">Hi, I'm Amr El-Mahalawy 👋</h1>
 <h3 align="center">Full-Stack | Mobile | Desktop | Data Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student+%7C+Class+of+2026;Full-Stack+MERN+%7C+Flutter+%7C+Electron+Dev;Always+building+cool+stuff+with+code!" alt="Typing SVG" />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&width=435&lines=Computer+Science+Student+%7C+Class+of+2026;Full-Stack+MERN+%7C+Flutter+%7C+Electron+Dev" alt="Typing SVG" /></a>
 </p>
 
 ---

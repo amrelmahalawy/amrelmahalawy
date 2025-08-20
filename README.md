@@ -9,7 +9,6 @@
 
 ## 🧠 About Me
 
-- 🎓 CS + MIS student @ Abu Qir Higher Institute (Graduating 2026)  
 - 💻 Building web, mobile & desktop apps (MERN, Flutter, Electron)  
 - 📊 Exploring data visualization, backend APIs & scripting  
 - 🧩 Also messing with Lua (FiveM, Roblox) for fun  
@@ -68,7 +67,6 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amrelmahalawy)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amrelmahalawy.office@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/amrelmahalawy)
 
